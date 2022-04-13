@@ -1,16 +1,20 @@
-# game_app
+## Gamify
 
-A new Flutter project.
+Implimentation of a game libery design
 
-## Getting Started
+### Details
 
-This project is a starting point for a Flutter application.
+Uses:
 
-A few resources to get you started if this is your first Flutter project:
+    - [Flutter/Dart](https://flutter.dev/)
+    - [Appwrite Backend Server](https://appwrite.io/)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Design:
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Gamify](https://www.figma.com/file/fToP52noIUYDpQN7yiYMQ0/Game-App?node-id=0%3A1)
+
+Designer:
+
+- [Quadri Shonibare (AQ)](https://api.whatsapp.com/send?phone=2348122165135&text=%20)
+
+#####This project is incomplete. Had fun with it hope i get the time to finish.
